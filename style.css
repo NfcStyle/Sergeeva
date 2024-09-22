@@ -1,0 +1,9 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#new-block-logo {
+    width: 50px;
+    margin-top: 10px;
+    display: block;
+}
